@@ -1,0 +1,21 @@
+@react-three-fiber é ma biblioteca que permite a criação de gráficos 3D interativos utilizando React e Three.js. 
+
+O pacote @react-three/drei foi criado para simplificar tarefas comuns ao trabalhar com o React-three-fiber, tornando mais fácil a criação de cenas 
+3D interativas e a adição de funcionalidades extras. Ele inclui uma variedade de componentes pré-construídos e hooks personalizados que podem ser 
+facilmente integrados aos projetos.
+
+instala a biblioteca "react-tilt" no seu projeto. A biblioteca "react-tilt" é um componente React que adiciona um efeito de inclinação (tilt) 
+interativo a elementos DOM, como imagens ou divs.
+
+
+O pacote "react-vertical-timeline-component" é uma biblioteca React que fornece um componente para criar facilmente uma linha do tempo vertical 
+em aplicações React. Essa linha do tempo é útil para exibir eventos ou marcos de forma organizada e visualmente atraente.
+
+O @emailjs/browser é uma biblioteca JavaScript que permite enviar emails diretamente do cliente (navegador) usando serviços de email como o Gmail.
+ Ele fornece uma API simples para enviar emails com facilidade, sem a necessidade de configurar um servidor de email
+
+O "framer-motion" é uma biblioteca para animações em React que facilita a criação de animações fluidas e interativas. 
+Ele fornece um conjunto de componentes e hooks que permitem adicionar animações de forma declarativa e intuitiva em elementos React.
+
+
+Ver um video sobre UserSets

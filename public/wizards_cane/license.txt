@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wizard's Cane
+* source:	https://sketchfab.com/3d-models/wizards-cane-1b54a0de0dfb4946836635db1ec446ca
+* author:	Meee (https://sketchfab.com/Meee)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wizard's Cane" (https://sketchfab.com/3d-models/wizards-cane-1b54a0de0dfb4946836635db1ec446ca) by Meee (https://sketchfab.com/Meee) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
